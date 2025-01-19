@@ -1,11 +1,12 @@
 body {
-  display: flex;
-  justify-content: center;
-  align-items: center;
+  width: 100%;
+  height: 97vh;
 }
 .container {
+  display: flex;
+  justify-content: center;
   width: 100%;
-  height: 200vh;
+  height: 100%;
   background-color: aqua;
 }
 #canvas {
