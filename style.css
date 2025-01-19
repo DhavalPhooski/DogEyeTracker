@@ -1,0 +1,14 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.container {
+  width: 100%;
+  height: 200vh;
+  background-color: aqua;
+}
+#canvas {
+  width: 100%;
+  height: 100%;
+}
